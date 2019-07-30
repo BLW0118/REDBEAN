@@ -1,0 +1,6 @@
+n = inte range (1,26)
+def if n is divisible by 3 print "RED"
+    if n is divisible by 5 print "BEAN"
+    if n is divisible by 15 print "YES"
+    otherwise print "NO"
+
